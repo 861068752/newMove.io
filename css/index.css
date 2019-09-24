@@ -1,0 +1,199 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	
+	
+}
+.home{
+	width: 1582px;
+	height: 3170px;
+	margin: 0 auto;
+	background:gainsboro;
+	
+	
+	
+}
+.home-top{
+	width: 1582px;
+	height: 60px;
+	background:url(../img/backgroud-5.jpg);
+	
+	
+	
+	
+}
+.film-top{
+	width: 1582px;
+	height: 60px;
+	background:black;
+}
+
+.var-top{
+	width: 1582px;
+	height: 60px;
+	background:url(../img/backgroud-3.jpg);
+	
+}
+.Hong-top{
+	width: 1582px;
+	height: 60px;
+	background:url(../img/backgroud-6.jpg);
+}
+.Eur-top{
+	width: 1582px;
+	height: 60px;
+	background:black;
+}
+.car-top{
+	width: 1582px;
+	height: 60px;
+	background:url(../img/backgroud-6.jpg);
+}
+.Bitter-top{
+	width: 1582px;
+	height: 60px;
+	background:url(../img/backgroud-8.jpg);
+}
+.top-l{
+	width: 330px;
+	height: 60px;
+	line-height: 60px;
+	
+}
+.top-c{
+	width: 752px;
+	height: 60px;
+	line-height: 60px;
+	
+}
+.top-r{
+	width: 500px;
+	height: 60px;
+	line-height: 60px;
+}
+.seek{
+	width: 225px;
+	height: 36px;
+	margin-left: 150px;
+	margin-top: 12px;
+	background: #313131;
+	border-radius: 10px;
+	line-height: 36px;
+	
+}
+.home-center{
+	width: 1582px;
+	height: 440px;
+	background:#333333;
+	
+}
+.center-top{
+	width: 1582px;
+	height: 78px;
+	line-height: 78px;
+	
+	
+}
+.top-nav{
+	width: 354px;
+	height: 42px;
+	line-height: 42px;
+	background:#aaaaaa;
+	border-radius: 30px;
+	margin-left: 616px;
+	margin-top: 20px;
+	line-height: 42px;
+	
+}
+.top-nav ul li a{
+	font-size: 20px;
+	color: black;
+	margin-left: 15px;
+	
+	
+	
+}
+#pai{
+	margin-left: 0px;
+	
+}
+.center-bottom{
+	width: 1582px;
+	height: 280px;
+	
+	
+	
+}
+.top-nav ul li a:hover{
+	color: white;
+	text-decoration: underline;
+	
+}
+.top-nav ul li a:active{
+	color: black;
+}
+.top-c ul li a:hover{
+	color: blue;
+	text-decoration: underline;
+}
+.top-c ul li a:active{
+	color: black;
+	
+	
+}
+.movie,.TV,.cartoon,.variety{
+	width: 1582px;
+	height: 640px;
+	float: left;
+	border-bottom: 2px solid gray;
+	
+	
+}
+.movie-top,.TV-top,.cartoon-top,.variety-top{
+	width: 1582px;
+	height: 62px;
+	
+	
+}
+.movie-bottom,.TV-bottom,.cartoon-bottom,.variety-bottom{
+	width: 1582px;
+	height: 578px;
+	float: left;
+
+	
+	
+}
+.movie-bottom-l,.TV-bottom-l,.cartoon-bottom-l,.variety-bottom-l{
+	width: 1128px;
+	height: 578px;
+	float: left;
+	
+	
+}
+.movie-bottom-r,.TV-bottom-r,.cartoon-bottom-r,.variety-bottom-r{
+	width: 454px;
+	height: 578px;
+	float: right;
+
+	
+	
+}
+.white-frame{
+	
+	width: 15px;
+	height: 10px;
+	background: white;
+	text-align: center;
+	border-radius: 5px;
+
+	
+	
+}
+.underscore{
+	width: 1582px;
+	height: 1px;
+	background: blue;
+	text-align: center;
+	color: black;
+}
